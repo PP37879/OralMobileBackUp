@@ -1,0 +1,10 @@
+command/feat.params
+command/mdef
+command/means
+command/mixture_weights
+command/noisedict
+command/transition_matrices
+command/variances
+database.dic
+database.gram
+database.phone
